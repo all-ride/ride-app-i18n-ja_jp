@@ -1,0 +1,10 @@
+{
+    "i18n.locale": {
+        "ja_JP": {
+            "name": "日本語（日本）",
+            "format.date.form": "y/m/d",
+            "full": "ja_JP.utf8",
+            "translator.script.plural": "$n != 1"
+        }
+    }
+}
